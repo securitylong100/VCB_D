@@ -125,3 +125,4 @@ D:\VCB\VCB_D\VCVP\bin\Debug\vi-VN\MachineMaintenance.resources.dll
 D:\VCB\VCB_D\VCVP\obj\Debug\Com.Nidec.Mes.VCVP.FormMain.resources
 D:\VCB\VCB_D\VCVP\obj\Debug\Com.Nidec.Mes.VCVP.Properties.Resources.resources
 D:\VCB\VCB_D\VCVP\obj\Debug\VCVP.csproj.GenerateResource.Cache
+D:\VCB\VCB_D\VCVP\obj\Debug\VCVP.csprojResolveAssemblyReference.cache

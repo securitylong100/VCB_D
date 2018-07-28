@@ -365,3 +365,197 @@ Npgsql.PostgresException (0x80004005): 23502: null value in column "vcb_function
 2018-07-15 18:04:58,126 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-15 06:04:58 PM
 2018-07-15 18:05:04,050 INFO  [Com.Nidec.Mes.Common.Basic.MachineMaintenance.FunctionDepartmentForm] [mmce00001]Record is already registered
 2018-07-15 18:05:29,892 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-15 06:05:29 PM
+2018-07-15 18:50:11,050 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-15 06:50:11 PM
+2018-07-15 18:50:27,379 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : User Master].[LoginUser : Administrator] Start.
+2018-07-15 18:50:31,425 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : User Master].[LoginUser : Administrator] End.
+2018-07-15 18:52:20,429 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : User Master].[LoginUser : Administrator] Start.
+2018-07-15 18:52:22,703 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : User Master].[LoginUser : Administrator] End.
+2018-07-15 18:52:38,566 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : User Master].[LoginUser : Administrator] Start.
+2018-07-15 18:52:40,618 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : Update User].[LoginUser : Administrator] Start.
+2018-07-15 18:52:42,472 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : Update User].[LoginUser : Administrator] End.
+2018-07-15 18:52:43,301 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : User Master].[LoginUser : Administrator] End.
+2018-07-15 18:52:56,678 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-15 06:52:56 PM
+2018-07-21 18:09:01,726 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-21 06:09:01 PM
+2018-07-21 18:09:08,130 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : User Master].[LoginUser : Administrator] Start.
+2018-07-21 18:09:10,195 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : User Master].[LoginUser : Administrator] End.
+2018-07-21 18:09:11,800 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : User Factory].[LoginUser : Administrator] Start.
+2018-07-21 18:09:13,928 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : User Factory].[LoginUser : Administrator] End.
+2018-07-21 18:09:24,467 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-21 06:09:24 PM
+2018-07-21 18:48:13,666 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-21 06:48:13 PM
+2018-07-21 18:48:18,002 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : User Factory].[LoginUser : Administrator] Start.
+2018-07-21 18:48:19,545 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : User Factory].[LoginUser : Administrator] End.
+2018-07-21 18:48:20,309 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : Factory Master].[LoginUser : Administrator] Start.
+2018-07-21 18:48:21,953 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : Factory Master].[LoginUser : Administrator] End.
+2018-07-21 18:50:24,613 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : User Master].[LoginUser : Administrator] Start.
+2018-07-21 18:50:26,889 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : User Master].[LoginUser : Administrator] End.
+2018-07-21 18:50:27,967 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : Country Language Master].[LoginUser : Administrator] Start.
+2018-07-21 18:50:29,231 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : Country Language Master].[LoginUser : Administrator] End.
+2018-07-21 18:50:30,237 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : Factory Master].[LoginUser : Administrator] Start.
+2018-07-21 18:50:32,065 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : Factory Master].[LoginUser : Administrator] End.
+2018-07-21 18:50:33,185 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : User Factory].[LoginUser : Administrator] Start.
+2018-07-21 18:50:36,446 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : User Factory].[LoginUser : Administrator] End.
+2018-07-21 18:50:53,406 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-21 06:50:53 PM
+2018-07-21 18:50:54,864 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-21 06:50:54 PM
+2018-07-21 18:50:58,934 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : Role Master].[LoginUser : Administrator] Start.
+2018-07-21 18:51:00,433 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : Role Master].[LoginUser : Administrator] End.
+2018-07-21 18:51:01,133 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : Authority Control Master].[LoginUser : Administrator] Start.
+2018-07-21 18:51:08,453 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : Authority Control Master].[LoginUser : Administrator] End.
+2018-07-21 18:54:59,010 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-21 06:54:59 PM
+2018-07-21 18:55:04,527 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-21 06:55:04 PM
+2018-07-21 18:56:37,761 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : Country Language Master].[LoginUser : Administrator] Start.
+2018-07-21 18:56:42,298 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : Country Language Master].[LoginUser : Administrator] End.
+2018-07-21 19:26:21,056 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-21 07:26:21 PM
+2018-07-21 19:27:24,717 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-21 07:27:24 PM
+2018-07-21 19:27:34,045 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-21 07:27:34 PM
+2018-07-27 20:43:42,968 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-27 08:43:42 PM
+2018-07-27 20:44:05,350 ERROR [Com.Nidec.Mes.Framework.DefaultCbmInvoker] [ffce00003]Unable to cast object of type 'Com.Nidec.Mes.GlobalMasterMaintenance.Vo.UserVo' to type 'Com.Nidec.Mes.Common.Basic.MachineMaintenance.Vo.DrawingVo'..
+System.InvalidCastException: Unable to cast object of type 'Com.Nidec.Mes.GlobalMasterMaintenance.Vo.UserVo' to type 'Com.Nidec.Mes.Common.Basic.MachineMaintenance.Vo.DrawingVo'.
+   at Com.Nidec.Mes.Common.Basic.MachineMaintenance.Dao.GetUserDao.Execute(TransactionContext trxContext, ValueObject vo) in D:\VCB\VCB_P\MachineMaintenance\Dao\DrawDao\GetUserDao.cs:line 13
+   at Com.Nidec.Mes.Common.Basic.MachineMaintenance.Cbm.GetUserCbm.Execute(TransactionContext trxContext, ValueObject vo) in D:\VCB\VCB_P\MachineMaintenance\Cbm\DrawCbm\GetUserCbm.cs:line 18
+   at Com.Nidec.Mes.Framework.DefaultCbmInvoker.Invoke(CbmController cbm, ValueObject vo, UserData userData, TransactionContextFactory trxFactory, String connectionString) in D:\VCB\fw\NidecMES\Framework\DefaultCbmInvoker.cs:line 117
+2018-07-27 20:47:19,679 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-27 08:47:19 PM
+2018-07-27 20:47:25,999 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : User Master].[LoginUser : Administrator] Start.
+2018-07-27 20:48:05,982 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : User Master].[LoginUser : Administrator] End.
+2018-07-27 20:48:06,789 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-27 08:48:06 PM
+2018-07-27 20:48:58,194 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-27 08:48:58 PM
+2018-07-27 20:48:58,993 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00004]Please provide  valid input.
+2018-07-27 20:48:59,742 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-27 08:48:59 PM
+2018-07-27 20:49:00,385 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-27 08:49:00 PM
+2018-07-27 21:00:47,559 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-27 09:00:47 PM
+2018-07-27 21:02:08,946 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : User Master].[LoginUser : Administrator] Start.
+2018-07-27 21:02:11,429 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : Add User].[LoginUser : Administrator] Start.
+2018-07-27 21:02:49,985 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : Add User].[LoginUser : Administrator] End.
+2018-07-27 21:02:50,001 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.LocalUserMasterForm] [mmci00001]Record has been added successfully.
+2018-07-27 21:02:52,847 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : User Master].[LoginUser : Administrator] End.
+2018-07-27 21:03:22,118 ERROR [Com.Nidec.Mes.Framework.DefaultCbmInvoker] [ffce00003]23502: null value in column "user_name" violates not-null constraint.
+Npgsql.PostgresException (0x80004005): 23502: null value in column "user_name" violates not-null constraint
+   at Npgsql.NpgsqlConnector.DoReadMessage(DataRowLoadingMode dataRowLoadingMode, Boolean isPrependedMessage)
+   at Npgsql.NpgsqlConnector.ReadMessageWithPrepended(DataRowLoadingMode dataRowLoadingMode)
+   at Npgsql.NpgsqlDataReader.NextResultInternal()
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.Execute(CommandBehavior behavior)
+   at Npgsql.NpgsqlCommand.ExecuteNonQueryInternal()
+   at Npgsql.NpgsqlCommand.ExecuteNonQuery()
+   at Com.Nidec.Mes.Framework.DefaultNpgCommandAdaptor.ExecuteNonQuery(DbParameterList parameterList) in D:\VCB\fw\NidecMES\Framework\DefaultNpgCommandAdaptor.cs:line 40
+   at Com.Nidec.Mes.Common.Basic.MachineMaintenance.Dao.AddFunctionDeptVCBDao.Execute(TransactionContext trxContext, ValueObject vo) in D:\VCB\VCB_P\MachineMaintenance\Dao\Vietcombank\FunctionDeptDao\AddFunctionDeptVCBDao.cs:line 35
+   at Com.Nidec.Mes.Common.Basic.MachineMaintenance.Cbm.AddFunctionDeptVCBCbm.Execute(TransactionContext trxContext, ValueObject vo) in D:\VCB\VCB_P\MachineMaintenance\Cbm\Vietcombank\FunctionDeptDao\AddFunctionDeptVCBCbm.cs:line 24
+   at Com.Nidec.Mes.Framework.DefaultCbmInvoker.Invoke(CbmController cbm, ValueObject vo, UserData userData, TransactionContextFactory trxFactory, String connectionString) in D:\VCB\fw\NidecMES\Framework\DefaultCbmInvoker.cs:line 117
+2018-07-27 21:03:26,878 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-27 09:03:26 PM
+2018-07-27 21:15:29,365 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-27 09:15:29 PM
+2018-07-27 21:15:30,042 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00004]Please provide  valid input.
+2018-07-27 21:15:31,219 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-27 09:15:31 PM
+2018-07-27 21:15:33,811 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-27 09:15:33 PM
+2018-07-27 21:16:23,080 INFO  [Com.Nidec.Mes.Common.Basic.MachineMaintenance.AddFuntionDepartmentForm] [mmce00001]Record is already registered
+2018-07-27 21:17:01,417 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-27 09:17:01 PM
+2018-07-27 21:19:36,669 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-27 09:19:36 PM
+2018-07-27 21:19:37,361 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00004]Please provide  valid input.
+2018-07-27 21:19:38,757 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-27 09:19:38 PM
+2018-07-27 21:19:41,038 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-27 09:19:41 PM
+2018-07-27 21:19:57,962 ERROR [Com.Nidec.Mes.Framework.DefaultCbmInvoker] [ffce00003]42601: syntax error at or near ":".
+Npgsql.PostgresException (0x80004005): 42601: syntax error at or near ":"
+   at Npgsql.NpgsqlConnector.DoReadMessage(DataRowLoadingMode dataRowLoadingMode, Boolean isPrependedMessage)
+   at Npgsql.NpgsqlConnector.ReadMessageWithPrepended(DataRowLoadingMode dataRowLoadingMode)
+   at Npgsql.NpgsqlConnector.ReadExpecting[T]()
+   at Npgsql.NpgsqlDataReader.NextResultInternal()
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.Execute(CommandBehavior behavior)
+   at Npgsql.NpgsqlCommand.ExecuteNonQueryInternal()
+   at Npgsql.NpgsqlCommand.ExecuteNonQuery()
+   at Com.Nidec.Mes.Framework.DefaultNpgCommandAdaptor.ExecuteNonQuery(DbParameterList parameterList) in D:\VCB\fw\NidecMES\Framework\DefaultNpgCommandAdaptor.cs:line 40
+   at Com.Nidec.Mes.Common.Basic.MachineMaintenance.Dao.UpdateFunctionDeptVCBDao.Execute(TransactionContext trxContext, ValueObject vo) in D:\VCB\VCB_P\MachineMaintenance\Dao\Vietcombank\FunctionDeptDao\UpdateFunctionDeptVCBDao.cs:line 36
+   at Com.Nidec.Mes.Common.Basic.MachineMaintenance.Cbm.UpdateFunctionDeptVCBCbm.Execute(TransactionContext trxContext, ValueObject vo) in D:\VCB\VCB_P\MachineMaintenance\Cbm\Vietcombank\FunctionDeptDao\UpdateFunctionDeptVCBCbm.cs:line 24
+   at Com.Nidec.Mes.Framework.DefaultCbmInvoker.Invoke(CbmController cbm, ValueObject vo, UserData userData, TransactionContextFactory trxFactory, String connectionString) in D:\VCB\fw\NidecMES\Framework\DefaultCbmInvoker.cs:line 117
+2018-07-27 21:19:59,738 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-27 09:19:59 PM
+2018-07-27 21:20:28,618 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-27 09:20:28 PM
+2018-07-27 21:20:29,302 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00004]Please provide  valid input.
+2018-07-27 21:20:30,429 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-27 09:20:30 PM
+2018-07-27 21:20:32,834 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-27 09:20:32 PM
+2018-07-27 21:20:40,633 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-27 09:20:40 PM
+2018-07-27 21:23:43,702 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-27 09:23:43 PM
+2018-07-27 21:23:56,357 ERROR [Com.Nidec.Mes.Framework.DefaultCbmInvoker] [ffce00003]42601: syntax error at or near ":".
+Npgsql.PostgresException (0x80004005): 42601: syntax error at or near ":"
+   at Npgsql.NpgsqlConnector.DoReadMessage(DataRowLoadingMode dataRowLoadingMode, Boolean isPrependedMessage)
+   at Npgsql.NpgsqlConnector.ReadMessageWithPrepended(DataRowLoadingMode dataRowLoadingMode)
+   at Npgsql.NpgsqlConnector.ReadExpecting[T]()
+   at Npgsql.NpgsqlDataReader.NextResultInternal()
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.Execute(CommandBehavior behavior)
+   at Npgsql.NpgsqlCommand.ExecuteNonQueryInternal()
+   at Npgsql.NpgsqlCommand.ExecuteNonQuery()
+   at Com.Nidec.Mes.Framework.DefaultNpgCommandAdaptor.ExecuteNonQuery(DbParameterList parameterList) in D:\VCB\fw\NidecMES\Framework\DefaultNpgCommandAdaptor.cs:line 40
+   at Com.Nidec.Mes.Common.Basic.MachineMaintenance.Dao.UpdateFunctionDeptVCBDao.Execute(TransactionContext trxContext, ValueObject vo) in D:\VCB\VCB_P\MachineMaintenance\Dao\Vietcombank\FunctionDeptDao\UpdateFunctionDeptVCBDao.cs:line 36
+   at Com.Nidec.Mes.Common.Basic.MachineMaintenance.Cbm.UpdateFunctionDeptVCBCbm.Execute(TransactionContext trxContext, ValueObject vo) in D:\VCB\VCB_P\MachineMaintenance\Cbm\Vietcombank\FunctionDeptDao\UpdateFunctionDeptVCBCbm.cs:line 24
+   at Com.Nidec.Mes.Framework.DefaultCbmInvoker.Invoke(CbmController cbm, ValueObject vo, UserData userData, TransactionContextFactory trxFactory, String connectionString) in D:\VCB\fw\NidecMES\Framework\DefaultCbmInvoker.cs:line 117
+2018-07-27 21:24:00,948 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-27 09:24:00 PM
+2018-07-27 21:25:21,669 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-27 09:25:21 PM
+2018-07-27 21:27:46,121 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-27 09:27:46 PM
+2018-07-27 21:27:54,493 ERROR [Com.Nidec.Mes.Framework.DefaultCbmInvoker] [ffce00003]42601: syntax error at or near ":".
+Npgsql.PostgresException (0x80004005): 42601: syntax error at or near ":"
+   at Npgsql.NpgsqlConnector.DoReadMessage(DataRowLoadingMode dataRowLoadingMode, Boolean isPrependedMessage)
+   at Npgsql.NpgsqlConnector.ReadMessageWithPrepended(DataRowLoadingMode dataRowLoadingMode)
+   at Npgsql.NpgsqlConnector.ReadExpecting[T]()
+   at Npgsql.NpgsqlDataReader.NextResultInternal()
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.Execute(CommandBehavior behavior)
+   at Npgsql.NpgsqlCommand.ExecuteNonQueryInternal()
+   at Npgsql.NpgsqlCommand.ExecuteNonQuery()
+   at Com.Nidec.Mes.Framework.DefaultNpgCommandAdaptor.ExecuteNonQuery(DbParameterList parameterList) in D:\VCB\fw\NidecMES\Framework\DefaultNpgCommandAdaptor.cs:line 40
+   at Com.Nidec.Mes.Common.Basic.MachineMaintenance.Dao.UpdateFunctionDeptVCBDao.Execute(TransactionContext trxContext, ValueObject vo) in D:\VCB\VCB_P\MachineMaintenance\Dao\Vietcombank\FunctionDeptDao\UpdateFunctionDeptVCBDao.cs:line 36
+   at Com.Nidec.Mes.Common.Basic.MachineMaintenance.Cbm.UpdateFunctionDeptVCBCbm.Execute(TransactionContext trxContext, ValueObject vo) in D:\VCB\VCB_P\MachineMaintenance\Cbm\Vietcombank\FunctionDeptDao\UpdateFunctionDeptVCBCbm.cs:line 24
+   at Com.Nidec.Mes.Framework.DefaultCbmInvoker.Invoke(CbmController cbm, ValueObject vo, UserData userData, TransactionContextFactory trxFactory, String connectionString) in D:\VCB\fw\NidecMES\Framework\DefaultCbmInvoker.cs:line 117
+2018-07-27 21:28:00,261 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-27 09:28:00 PM
+2018-07-27 21:28:10,841 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-27 09:28:10 PM
+2018-07-27 21:28:21,640 INFO  [Com.Nidec.Mes.Common.Basic.MachineMaintenance.AddDepartmentForm] [mmce00001]Record is already registered
+2018-07-27 21:28:30,305 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-27 09:28:30 PM
+2018-07-27 21:32:53,692 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-27 09:32:53 PM
+2018-07-27 21:33:03,406 INFO  [Com.Nidec.Mes.Common.Basic.MachineMaintenance.AddFuntionDepartmentForm] [mmce00001]Record is already registered
+2018-07-27 21:33:12,669 INFO  [Com.Nidec.Mes.Common.Basic.MachineMaintenance.AddFuntionDepartmentForm] [mmce00001]Record is already registered
+2018-07-27 21:33:22,927 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-27 09:33:22 PM
+2018-07-28 12:31:35,787 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-28 12:31:35 PM
+2018-07-28 12:31:36,795 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00004]Please provide  valid input.
+2018-07-28 12:31:37,881 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-28 12:31:37 PM
+2018-07-28 12:31:40,306 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-28 12:31:40 PM
+2018-07-28 12:32:17,138 INFO  [Com.Nidec.Mes.Common.Basic.MachineMaintenance.AddFuntionDepartmentForm] [mmce00001]Record is already registered
+2018-07-28 12:32:24,624 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : User Master].[LoginUser : Administrator] Start.
+2018-07-28 12:32:31,093 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : Update User].[LoginUser : Administrator] Start.
+2018-07-28 12:32:38,063 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : Update User].[LoginUser : Administrator] End.
+2018-07-28 12:32:39,375 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : Add User].[LoginUser : Administrator] Start.
+2018-07-28 12:33:00,894 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : Add User].[LoginUser : Administrator] End.
+2018-07-28 12:33:00,909 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.LocalUserMasterForm] [mmci00001]Record has been added successfully.
+2018-07-28 12:33:02,503 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : User Master].[LoginUser : Administrator] End.
+2018-07-28 12:33:22,803 INFO  [Com.Nidec.Mes.Common.Basic.MachineMaintenance.AddFuntionDepartmentForm] [mmce00001]Record is already registered
+2018-07-28 12:33:31,601 INFO  [Com.Nidec.Mes.Common.Basic.MachineMaintenance.AddFuntionDepartmentForm] [mmce00001]Record is already registered
+2018-07-28 12:33:40,961 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : User Master].[LoginUser : Administrator] Start.
+2018-07-28 12:33:43,633 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : Update User].[LoginUser : Administrator] Start.
+2018-07-28 12:33:56,197 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : Update User].[LoginUser : Administrator] End.
+2018-07-28 12:33:56,197 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.LocalUserMasterForm] [mmci00002]Record has been updated successfully.
+2018-07-28 12:33:58,338 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : User Master].[LoginUser : Administrator] End.
+2018-07-28 12:34:06,371 INFO  [Com.Nidec.Mes.Common.Basic.MachineMaintenance.AddDepartmentForm] [mmce00001]Record is already registered
+2018-07-28 12:34:20,779 INFO  [Com.Nidec.Mes.Common.Basic.MachineMaintenance.AddFuntionDepartmentForm] [mmce00001]Record is already registered
+2018-07-28 12:34:25,326 INFO  [Com.Nidec.Mes.Common.Basic.MachineMaintenance.AddFuntionDepartmentForm] [mmce00001]Record is already registered
+2018-07-28 12:34:54,017 INFO  [Com.Nidec.Mes.Common.Basic.MachineMaintenance.AddFuntionDepartmentForm] [mmce00001]Record is already registered
+2018-07-28 12:35:23,239 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-28 12:35:23 PM
+2018-07-28 12:36:41,708 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-28 12:36:41 PM
+2018-07-28 12:36:42,411 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00004]Please provide  valid input.
+2018-07-28 12:36:43,523 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-28 12:36:43 PM
+2018-07-28 12:36:45,211 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-28 12:36:45 PM
+2018-07-28 12:37:11,620 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-28 12:37:11 PM
+2018-07-28 12:41:37,414 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-28 12:41:37 PM
+2018-07-28 12:43:30,849 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-28 12:43:30 PM
+2018-07-28 12:44:53,845 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : Factory Master].[LoginUser : Administrator] Start.
+2018-07-28 12:44:54,844 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : Factory Master].[LoginUser : Administrator] End.
+2018-07-28 12:44:55,605 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : User Master].[LoginUser : Administrator] Start.
+2018-07-28 12:44:59,439 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : User Master].[LoginUser : Administrator] End.
+2018-07-28 12:46:02,237 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-28 12:46:02 PM
+2018-07-28 12:46:04,120 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-28 12:46:04 PM
+2018-07-28 12:46:06,212 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : User Master].[LoginUser : Administrator] Start.
+2018-07-28 12:46:08,992 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : Update User].[LoginUser : Administrator] Start.
+2018-07-28 12:46:19,427 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : Update User].[LoginUser : Administrator] End.
+2018-07-28 12:46:19,443 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.LocalUserMasterForm] [mmci00002]Record has been updated successfully.
+2018-07-28 12:46:24,396 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00004][Void FormCommonMaster_Load(System.Object, System.EventArgs)].[FormName : Update User].[LoginUser : Administrator] Start.
+2018-07-28 12:46:28,244 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : Update User].[LoginUser : Administrator] End.
+2018-07-28 12:46:28,259 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.LocalUserMasterForm] [mmci00002]Record has been updated successfully.
+2018-07-28 12:46:30,109 INFO  [Com.Nidec.Mes.GlobalMasterMaintenance.FormCommonMaster] [mmci00005][Void FormCommonMaster_FormClosed(System.Object, System.Windows.Forms.FormClosedEventArgs)].[FormName : User Master].[LoginUser : Administrator] End.
+2018-07-28 12:46:53,445 INFO  [Com.Nidec.Mes.Common.Basic.MachineMaintenance.AddFuntionDepartmentForm] [mmce00001]Record is already registered
+2018-07-28 12:47:06,785 INFO  [Com.Nidec.Mes.Common.Basic.MachineMaintenance.AddFuntionDepartmentForm] [mmce00001]Record is already registered
+2018-07-28 12:48:04,296 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-28 12:48:04 PM

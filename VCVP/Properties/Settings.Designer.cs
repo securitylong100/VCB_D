@@ -25,7 +25,7 @@ namespace Com.Nidec.Mes.VCVP.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("VietcomBank Đà Nẵng")]
+        [global::System.Configuration.DefaultSettingValueAttribute("VietcomBank Sông Hàn")]
         public string APPLICATION_HEADER {
             get {
                 return ((string)(this["APPLICATION_HEADER"]));

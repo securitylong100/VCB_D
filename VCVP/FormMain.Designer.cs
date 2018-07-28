@@ -39,6 +39,8 @@
             this.NcvpMaster_gpb = new Com.Nidec.Mes.Framework.GroupBoxCommon();
             this.Master_tab = new Com.Nidec.Mes.Framework.TabControlCommon();
             this.Master = new System.Windows.Forms.TabPage();
+            this.dept_function_btn = new Com.Nidec.Mes.Framework.ButtonCommon();
+            this.dept_btn = new Com.Nidec.Mes.Framework.ButtonCommon();
             this.labelCommon1 = new Com.Nidec.Mes.Framework.LabelCommon();
             this.SystemMaster_gpb = new Com.Nidec.Mes.Framework.GroupBoxCommon();
             this.rolemac_btn = new Com.Nidec.Mes.Framework.ButtonCommon();
@@ -58,10 +60,8 @@
             this.VTFunction_grb = new Com.Nidec.Mes.Framework.GroupBoxCommon();
             this.vt_tabpage = new Com.Nidec.Mes.Framework.TabControlCommon();
             this.VT_tp = new System.Windows.Forms.TabPage();
-            this.labelCommon3 = new Com.Nidec.Mes.Framework.LabelCommon();
-            this.dept_btn = new Com.Nidec.Mes.Framework.ButtonCommon();
-            this.dept_function_btn = new Com.Nidec.Mes.Framework.ButtonCommon();
             this.support_request_btn = new Com.Nidec.Mes.Framework.ButtonCommon();
+            this.labelCommon3 = new Com.Nidec.Mes.Framework.LabelCommon();
             this.Menu_gpb.SuspendLayout();
             this.groupBoxCommon7.SuspendLayout();
             this.groupBoxCommon1.SuspendLayout();
@@ -213,6 +213,32 @@
             this.Master.TabIndex = 0;
             this.Master.Text = "Master";
             this.Master.UseVisualStyleBackColor = true;
+            // 
+            // dept_function_btn
+            // 
+            this.dept_function_btn.BackColor = System.Drawing.SystemColors.Control;
+            this.dept_function_btn.ControlId = null;
+            this.dept_function_btn.Font = new System.Drawing.Font("Arial", 9F);
+            this.dept_function_btn.Location = new System.Drawing.Point(250, 15);
+            this.dept_function_btn.Name = "dept_function_btn";
+            this.dept_function_btn.Size = new System.Drawing.Size(159, 62);
+            this.dept_function_btn.TabIndex = 0;
+            this.dept_function_btn.Text = "Dep.t Function";
+            this.dept_function_btn.UseVisualStyleBackColor = false;
+            this.dept_function_btn.Click += new System.EventHandler(this.dept_function_btn_Click);
+            // 
+            // dept_btn
+            // 
+            this.dept_btn.BackColor = System.Drawing.SystemColors.Control;
+            this.dept_btn.ControlId = null;
+            this.dept_btn.Font = new System.Drawing.Font("Arial", 9F);
+            this.dept_btn.Location = new System.Drawing.Point(26, 15);
+            this.dept_btn.Name = "dept_btn";
+            this.dept_btn.Size = new System.Drawing.Size(163, 62);
+            this.dept_btn.TabIndex = 0;
+            this.dept_btn.Text = "Department";
+            this.dept_btn.UseVisualStyleBackColor = false;
+            this.dept_btn.Click += new System.EventHandler(this.dept_btn_Click);
             // 
             // labelCommon1
             // 
@@ -497,6 +523,19 @@
             this.VT_tp.Text = "Nội Dung";
             this.VT_tp.UseVisualStyleBackColor = true;
             // 
+            // support_request_btn
+            // 
+            this.support_request_btn.BackColor = System.Drawing.SystemColors.Control;
+            this.support_request_btn.ControlId = null;
+            this.support_request_btn.Font = new System.Drawing.Font("Arial", 9F);
+            this.support_request_btn.Location = new System.Drawing.Point(30, 15);
+            this.support_request_btn.Name = "support_request_btn";
+            this.support_request_btn.Size = new System.Drawing.Size(174, 51);
+            this.support_request_btn.TabIndex = 0;
+            this.support_request_btn.Text = "Request and Support";
+            this.support_request_btn.UseVisualStyleBackColor = false;
+            this.support_request_btn.Click += new System.EventHandler(this.support_request_btn_Click);
+            // 
             // labelCommon3
             // 
             this.labelCommon3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
@@ -511,44 +550,6 @@
             this.labelCommon3.TabIndex = 46;
             this.labelCommon3.Text = "Vietcombank function";
             this.labelCommon3.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            // 
-            // dept_btn
-            // 
-            this.dept_btn.BackColor = System.Drawing.SystemColors.Control;
-            this.dept_btn.ControlId = null;
-            this.dept_btn.Font = new System.Drawing.Font("Arial", 9F);
-            this.dept_btn.Location = new System.Drawing.Point(26, 15);
-            this.dept_btn.Name = "dept_btn";
-            this.dept_btn.Size = new System.Drawing.Size(163, 62);
-            this.dept_btn.TabIndex = 0;
-            this.dept_btn.Text = "Department";
-            this.dept_btn.UseVisualStyleBackColor = false;
-            this.dept_btn.Click += new System.EventHandler(this.dept_btn_Click);
-            // 
-            // dept_function_btn
-            // 
-            this.dept_function_btn.BackColor = System.Drawing.SystemColors.Control;
-            this.dept_function_btn.ControlId = null;
-            this.dept_function_btn.Font = new System.Drawing.Font("Arial", 9F);
-            this.dept_function_btn.Location = new System.Drawing.Point(250, 15);
-            this.dept_function_btn.Name = "dept_function_btn";
-            this.dept_function_btn.Size = new System.Drawing.Size(159, 62);
-            this.dept_function_btn.TabIndex = 0;
-            this.dept_function_btn.Text = "Dep.t Function";
-            this.dept_function_btn.UseVisualStyleBackColor = false;
-            this.dept_function_btn.Click += new System.EventHandler(this.dept_function_btn_Click);
-            // 
-            // support_request_btn
-            // 
-            this.support_request_btn.BackColor = System.Drawing.SystemColors.Control;
-            this.support_request_btn.ControlId = null;
-            this.support_request_btn.Font = new System.Drawing.Font("Arial", 9F);
-            this.support_request_btn.Location = new System.Drawing.Point(30, 15);
-            this.support_request_btn.Name = "support_request_btn";
-            this.support_request_btn.Size = new System.Drawing.Size(174, 51);
-            this.support_request_btn.TabIndex = 0;
-            this.support_request_btn.Text = "Request and Support";
-            this.support_request_btn.UseVisualStyleBackColor = false;
             // 
             // FormMain
             // 

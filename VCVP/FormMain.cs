@@ -525,5 +525,11 @@ namespace Com.Nidec.Mes.VCVP
             FunctionDepartmentForm fundept = new FunctionDepartmentForm();
             fundept.ShowDialog();
         }
+
+        private void support_request_btn_Click(object sender, EventArgs e)
+        {
+            TranferRequestForm trf = new TranferRequestForm();
+            trf.ShowDialog();
+        }
     }
 }
