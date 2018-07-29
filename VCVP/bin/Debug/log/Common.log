@@ -559,3 +559,51 @@ Npgsql.PostgresException (0x80004005): 42601: syntax error at or near ":"
 2018-07-28 12:46:53,445 INFO  [Com.Nidec.Mes.Common.Basic.MachineMaintenance.AddFuntionDepartmentForm] [mmce00001]Record is already registered
 2018-07-28 12:47:06,785 INFO  [Com.Nidec.Mes.Common.Basic.MachineMaintenance.AddFuntionDepartmentForm] [mmce00001]Record is already registered
 2018-07-28 12:48:04,296 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-28 12:48:04 PM
+2018-07-28 13:08:00,427 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-28 01:08:00 PM
+2018-07-28 13:08:01,403 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00004]Please provide  valid input.
+2018-07-28 13:08:02,579 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-28 01:08:02 PM
+2018-07-28 13:08:05,144 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-28 01:08:05 PM
+2018-07-28 13:08:17,001 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-28 01:08:17 PM
+2018-07-28 13:12:25,056 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-28 01:12:25 PM
+2018-07-28 13:12:37,650 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-28 01:12:37 PM
+2018-07-28 13:18:32,266 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-28 01:18:32 PM
+2018-07-28 13:18:47,275 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-28 01:18:47 PM
+2018-07-28 14:01:26,931 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-28 02:01:26 PM
+2018-07-28 14:01:48,032 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-28 02:01:48 PM
+2018-07-28 14:02:38,162 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-28 02:02:38 PM
+2018-07-28 14:02:51,626 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-28 02:02:51 PM
+2018-07-28 14:06:26,400 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-28 02:06:26 PM
+2018-07-28 14:06:27,186 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00004]Please provide  valid input.
+2018-07-28 14:06:28,603 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-28 02:06:28 PM
+2018-07-28 14:06:29,103 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-28 02:06:29 PM
+2018-07-28 14:06:33,757 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-28 02:06:33 PM
+2018-07-28 14:10:00,545 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-28 02:10:00 PM
+2018-07-28 14:10:05,136 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-28 02:10:05 PM
+2018-07-28 14:11:53,649 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-28 02:11:53 PM
+2018-07-28 14:11:58,235 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-28 02:11:58 PM
+2018-07-28 14:13:55,032 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-28 02:13:55 PM
+2018-07-28 14:13:59,804 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-28 02:13:59 PM
+2018-07-28 14:15:11,285 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-28 02:15:11 PM
+2018-07-28 14:15:42,960 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-28 02:15:42 PM
+2018-07-28 15:36:20,835 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-28 03:36:20 PM
+2018-07-28 15:36:34,934 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-28 03:36:34 PM
+2018-07-28 15:41:57,202 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-28 03:41:57 PM
+2018-07-28 15:47:52,336 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-28 03:47:52 PM
+2018-07-28 15:50:13,129 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-28 03:50:13 PM
+2018-07-28 15:50:13,989 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00004]Please provide  valid input.
+2018-07-28 15:50:15,217 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-28 03:50:15 PM
+2018-07-28 15:50:17,384 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-28 03:50:17 PM
+2018-07-29 11:43:24,478 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-29 11:43:24 AM
+2018-07-29 11:43:36,284 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-29 11:43:36 AM
+2018-07-29 11:45:24,928 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-29 11:45:24 AM
+2018-07-29 11:49:22,170 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-29 11:49:22 AM
+2018-07-29 11:49:27,352 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-29 11:49:27 AM
+2018-07-29 12:33:11,749 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-29 12:33:11 PM
+2018-07-29 12:33:12,465 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00004]Please provide  valid input.
+2018-07-29 12:33:13,361 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-29 12:33:13 PM
+2018-07-29 12:33:15,403 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-29 12:33:15 PM
+2018-07-29 12:33:28,954 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-29 12:33:28 PM
+2018-07-29 12:33:51,352 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-29 12:33:51 PM
+2018-07-29 12:34:15,061 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-29 12:34:15 PM
+2018-07-29 12:56:33,814 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. Start : 2018-07-29 12:56:33 PM
+2018-07-29 12:57:11,272 INFO  [Com.Nidec.Mes.Framework.Login.LoginForm] [llce00001]Login Click. End : 2018-07-29 12:57:11 PM
